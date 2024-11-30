@@ -12,7 +12,7 @@ body {
   /* position: relative; */
   margin: auto;
   position: fixed;
-  top: -20%;
+  top: -25%;
   /* left: 40.5%; */
   left: calc(50% - 50px); 
   transform: translate(-50px, -50px);
@@ -32,7 +32,7 @@ body {
   border-radius: .133333rem;
   position: relative;
   /* top: 12.0875rem; */
-  top: 22.5vh;
+  top: 21vh;
   left: calc(50% - 50px); 
   width: 6px;
   height: 10vh;

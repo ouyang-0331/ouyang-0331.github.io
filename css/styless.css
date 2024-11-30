@@ -31,8 +31,8 @@ body {
   background: #ffffff;
   border-radius: .133333rem;
   position: relative;
-  /* top: 12.0875rem; */
-  top: 23vh;
+  top: 12.0875rem;
+/*   top: 23vh; */
   left: calc(50% - 50px); 
   width: 6px;
   height: 10vh;

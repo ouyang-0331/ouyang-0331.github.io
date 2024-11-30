@@ -12,7 +12,7 @@ body {
   /* position: relative; */
   margin: auto;
   position: fixed;
-  top: -25%;
+  top: -20%;
   /* left: 40.5%; */
   left: calc(50% - 50px); 
   transform: translate(-50px, -50px);
